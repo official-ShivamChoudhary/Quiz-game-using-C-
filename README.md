@@ -27,9 +27,10 @@
 # Check the answer key
 ![Check the answer key](https://user-images.githubusercontent.com/72095437/173640636-eccc0241-9c4c-462d-afb9-0e27095b658d.png)
 
-#Select the option to Exit the Quiz
+# Select the option to Exit the Quiz
 ![Select the option to exit the quiz](https://user-images.githubusercontent.com/72095437/173640910-8dcd2583-534f-441e-9bed-5c375e9aaa4b.png)
 
 
 
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* ![](https://img.shields.io/badge/Status-Complete-green.svg)
